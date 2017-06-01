@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DividerView">
+        <attr name="android:background" />
+        //分割线的背景，默认为透明
+        <attr name="dividerLeft" format="dimension|reference" />
+        //分割线距离左边的距离,默认为0
+        <attr name="dividerRight" format="dimension|reference" />
+        //分割线距离右边的距离，默认为0
+        <attr name="dividerPaddingColor" format="color|reference" />
+        //分割线padding的颜色 ，默认为透明
+    </declare-styleable>
+</resources>
