@@ -2,7 +2,7 @@ package com.rocf.dividerdemo.utils;
 
 /**
  * Interface for divider style.
- * Create by rocf.wong@jsonwong.com
+ * Create by rocf.wong@gmail.com
  */
 public abstract class DividerDrawableFilter {
 

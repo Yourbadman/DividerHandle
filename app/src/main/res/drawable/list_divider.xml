@@ -22,8 +22,8 @@
             android:tint="?android:attr/colorForeground">
             <solid android:color="#ff000000"/>
             <size
-                android:width="1px"
-                android:height="1px"/>
+                android:width="5px"
+                android:height="5px"/>
         </shape>
     </item>
 </layer-list>

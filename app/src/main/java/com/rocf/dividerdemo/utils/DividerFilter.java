@@ -1,6 +1,7 @@
 package com.rocf.dividerdemo.utils;
 /**
- * Create by rocf.wong@jsonwong.com
+ * Create by rocf.wong@gmail.com
+ * @see DividerItemDecoration
  */
 public abstract class DividerFilter {
 

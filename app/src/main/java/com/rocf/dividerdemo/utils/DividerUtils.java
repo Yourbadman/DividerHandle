@@ -10,7 +10,7 @@ import android.os.Build;
 import android.view.Gravity;
 
 /**
- * Create by rocf.wong@jsonwong.com
+ * Create by rocf.wong@gmail.com
  */
 public class DividerUtils {
 

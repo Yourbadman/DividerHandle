@@ -1,4 +1,4 @@
-package com.rocf.dividerdemo.utils;
+package com.rocf.dividerdemo.widget;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -11,10 +11,12 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.rocf.dividerdemo.R;
+import com.rocf.dividerdemo.utils.DividerDrawableFilter;
+import com.rocf.dividerdemo.utils.DividerUtils;
 
 
 /**
- * Create by rocf.wong@jsonwong.com
+ * Create by rocf.wong@gmail.com
  */
 public class DividerView extends View {
     private int mDividerLeft = 0;

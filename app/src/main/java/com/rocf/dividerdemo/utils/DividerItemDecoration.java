@@ -12,7 +12,7 @@ import android.view.View;
 import com.rocf.dividerdemo.R;
 
 /**
- * Create by rocf.wong@jsonwong.com
+ * Create by rocf.wong@gmail.com
  */
 public class DividerItemDecoration extends RecyclerView.ItemDecoration {
 

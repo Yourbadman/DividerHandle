@@ -4,7 +4,9 @@
     android:layout_height="match_parent">
 
     <ListView
+        android:background="@color/colorAccent"
         android:id="@android:id/list"
+        android:divider="@drawable/list_divider"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:fadingEdge="none"

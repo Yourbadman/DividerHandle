@@ -3,6 +3,7 @@ package com.rocf.dividerdemo.demo;
 import android.app.ListActivity;
 import android.os.Bundle;
 import android.widget.ArrayAdapter;
+import android.widget.SimpleAdapter;
 
 import com.rocf.dividerdemo.R;
 
@@ -17,7 +18,8 @@ public class MainActivity extends ListActivity {
         // Use an existing ListAdapter that will map an array
         // of strings to TextViews
         setListAdapter(new ArrayAdapter<String>(this,
-                android.R.layout.simple_list_item_1, mStrings));
+                R.layout.main_list_item,mStrings));
+
         getListView().setTextFilterEnabled(true);
 
     }
